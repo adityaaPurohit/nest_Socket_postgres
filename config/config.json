@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "criihzsj",
+    "password": "vAlq_Mzc_AFDj3oA1_DNm8hAWKiLOM55",
+    "database": "criihzsj",
+    "port":5432,
+    "host": "batyr.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "criihzsj",
+    "password": "vAlq_Mzc_AFDj3oA1_DNm8hAWKiLOM55",
+    "database": "criihzsj",
+    "port":5432,
+    "host": "batyr.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "criihzsj",
+    "password": "vAlq_Mzc_AFDj3oA1_DNm8hAWKiLOM55",
+    "database": "criihzsj",
+    "port":5432,
+    "host": "batyr.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
